@@ -15,7 +15,7 @@ Unlike Retrieval-Augmented Generation (RAG), which dynamically fetches relevant 
   cd Cache-Augmented-Generation-Granite
   ```
 
-- **Create and Activate Virtual Environment:**
+- **cp .env.sample .envActivate Virtual Environment:**
   ```bash
   uv venv --python=3.11
   source .venv/bin/activate
