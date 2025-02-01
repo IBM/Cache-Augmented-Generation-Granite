@@ -1,4 +1,4 @@
-# Cache-Augmented-Generation-Granite
+## Cache Augmented Generation with Granite
 This repository explores Cache Augmented Generation (CAG) and its usage with Granite language models, demonstrating how Granite’s extended context windows and processing power enhance efficiency by directly utilizing precomputed information.
 
 Unlike Retrieval-Augmented Generation (RAG), which dynamically fetches relevant chunks of information in real-time followed by response generation, CAG prepares and stores all necessary information in advance.
@@ -6,9 +6,8 @@ Unlike Retrieval-Augmented Generation (RAG), which dynamically fetches relevant 
 ## CAG vs. RAG: Key differences
 ![rag-vs-cag](./media/rag-vs-cag.png)
 
-<br>
 
-# SetUp Guide
+## SetUp Guide
 
 - **Clone the Repository:**
   ```bash
