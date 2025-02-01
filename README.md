@@ -42,3 +42,5 @@ Unlike Retrieval-Augmented Generation (RAG), which dynamically fetches relevant 
   python cag_script.py
   ```
 
+## Reference
+- Research paper: [Don’t Do RAG: When Cache-Augmented Generation is All You Need for Knowledge Tasks](https://arxiv.org/abs/2412.15605v1)
