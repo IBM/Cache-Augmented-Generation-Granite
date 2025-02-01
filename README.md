@@ -17,6 +17,7 @@ Unlike Retrieval-Augmented Generation (RAG), which dynamically fetches relevant 
 
 - **Install Dependencies:**
   - By default, the dependencies are managed with [uv](https://docs.astral.sh/uv/) Python package and project manager. Install it, if not already.
+
     ```bash
     uv sync
     ```
