@@ -6,7 +6,9 @@ Unlike Retrieval-Augmented Generation (RAG), which dynamically fetches relevant 
 ## CAG vs. RAG: Key differences
 ![rag-vs-cag](./media/rag-vs-cag.png)
 
-## SetUp Guide
+<br>
+
+# SetUp Guide
 
 - **Clone the Repository:**
   ```bash
