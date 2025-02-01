@@ -15,16 +15,17 @@ Unlike Retrieval-Augmented Generation (RAG), which dynamically fetches relevant 
   cd Cache-Augmented-Generation-Granite
   ```
 
-- **Create and Activate Virtual Environment:**
+- **Install Dependencies:**
+  - By default, the dependencies are managed with [uv](https://docs.astral.sh/uv/) Python package and project manager. Install it, if not already.
+    ```bash
+    uv sync
+    ```
+
+- **Activate Virtual Environment:**
   ```bash
-  uv venv --python=3.11
   source .venv/bin/activate
   ```
-
-- **Install Dependencies:**
-  ```bash
-  uv sync
-  ```
+  - Make sure your editor is using the correct Python virtual environment.
 
 - **Configure Environment Variables:**
   ```bash
